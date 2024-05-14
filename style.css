@@ -1,0 +1,29 @@
+
+
+body{
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: orangered;
+  font-size: 50px;
+}
+.container{
+   width: 50%;
+   border: 2px solid rgb(94, 150, 93);
+   border-radius: 20px;
+   padding: 20px;
+}
+button{
+  padding: 20px 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 100px;
+  border: 2px solid rgb(63, 128, 146);
+  background-color: black;
+  color: white;
+  margin-top: 100px;
+  border-radius: 20px;
+}
